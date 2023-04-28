@@ -196,7 +196,8 @@ int main(int argc, char **argv)
 }
 ```
 ## Output:
-![op](./pca21.png)
+![image](https://user-images.githubusercontent.com/75234912/235046496-1153c89f-59f1-477a-a8d9-cea7f2f514af.png)
+
 ```
 Matrix initialization : 6.338138 sec.
 Sum matrix on Host : 0.884061 sec.
